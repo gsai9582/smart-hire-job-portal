@@ -1,8 +1,0 @@
-http://localhost:3000/jobs/69fa238a2fcc1dfcdda4233f
-
-
-
-admin123
-recruiter123
-user123
-123456
